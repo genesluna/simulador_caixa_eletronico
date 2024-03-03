@@ -31,7 +31,7 @@ O aluno deve criar testes unitários que assegurem que o caixa eltrônico:
 Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
 
 ```shell
-git clone https://github.com/genesluna/simulador_caixa_eletrônico.git
+git clone https://github.com/genesluna/simulador_caixa_eletronico.git
 ```
 
 ## Rodando o código
