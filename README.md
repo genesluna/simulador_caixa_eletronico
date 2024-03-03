@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CESMAC EAD](https://res.cloudinary.com/dxylve8nt/image/upload/v1709508355/cesmac_ead_downloaded_logo_r7qz3z.jpg)
 
 # Simulador de Caixa Eletrônico
 
