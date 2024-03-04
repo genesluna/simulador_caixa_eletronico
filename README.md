@@ -34,6 +34,9 @@ Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
 git clone https://github.com/genesluna/simulador_caixa_eletronico.git
 ```
 
+### Se ainda não tem o git instalado, segue vídeo explicando a instalação e configuração:
+https://youtu.be/RLx63VZ9wSc?si=2mwPE7lQgqlTD1Jj&t=26
+
 ## Rodando o código
 
 ```shell
