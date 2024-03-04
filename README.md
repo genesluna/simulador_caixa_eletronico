@@ -2,7 +2,7 @@
 
 # Simulador de Caixa Eletrônico
 
-Código fonte para para criação de testes unitários para o Projeto Integrador V-A do curso de Análise e Desenvolvimento de Sistemas EAD do CESMAC.
+Código fonte para criação de testes unitários para o Projeto Integrador V-A do curso de Análise e Desenvolvimento de Sistemas EAD do CESMAC.
 
 O aluno deve criar testes unitários que assegurem que o caixa eltrônico:
 
