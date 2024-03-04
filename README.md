@@ -42,4 +42,4 @@ python main.py
 
 ## Link para o grupo de dúvidas no WhatsApp:
 
-[![Link para o grupo de dúvidas no WhatsApp](https://res.cloudinary.com/dxylve8nt/image/upload/v1709515844/DSxOAUB0raA300_gon3wa.png)]([https://www.youtube.com/watch?v=72s4szR22mw](https://chat.whatsapp.com/Fbyekep2l9xG1Bpg9qZlCy)https://chat.whatsapp.com/Fbyekep2l9xG1Bpg9qZlCy)
+[![Link para o grupo de dúvidas no WhatsApp](https://res.cloudinary.com/dxylve8nt/image/upload/v1709516187/DSxOAUB0raA150_r9qyhw.png)](https://chat.whatsapp.com/Fbyekep2l9xG1Bpg9qZlCy)
