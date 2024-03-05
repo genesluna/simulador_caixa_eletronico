@@ -26,6 +26,9 @@ O aluno deve criar testes unitários que assegurem que o caixa eltrônico:
 
 [![Vídeo com explicação rápida do código](https://img.youtube.com/vi/72s4szR22mw/maxresdefault.jpg)](https://www.youtube.com/watch?v=72s4szR22mw)
 
+## Repositório com vídeo explicando como fazer os testes unitário e testes de exemplo:
+https://github.com/genesluna/calculadora_imc
+
 ## Utilizando o código
 
 Para iniciar a criação dos testes, é necessário clonar o projeto do GitHub:
